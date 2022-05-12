@@ -1,0 +1,1 @@
+/home/hp/RAJEEB/Rajeeb/Rust/Rust_Projects/Rust\ By\ Example/variable-bindings/freezing/target/debug/freezing: /home/hp/RAJEEB/Rajeeb/Rust/Rust_Projects/Rust\ By\ Example/variable-bindings/freezing/src/main.rs
