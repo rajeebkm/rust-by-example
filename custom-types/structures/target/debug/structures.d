@@ -1,0 +1,1 @@
+/home/hp/RAJEEB/Rajeeb/Rust/Rust_Projects/Rust\ By\ Example/custom-types/structures/target/debug/structures: /home/hp/RAJEEB/Rajeeb/Rust/Rust_Projects/Rust\ By\ Example/custom-types/structures/src/main.rs
