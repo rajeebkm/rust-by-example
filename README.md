@@ -2,7 +2,7 @@
 
 Rust is a modern systems programming language focusing on safety, speed, and concurrency. It accomplishes these goals by being memory safe without using garbage collection.
 
-Hello World - Start with a traditional Hello World program.
+- Hello World - Start with a traditional Hello World program.
 
 Primitives - Learn about signed integers, unsigned integers and other primitives.
 
